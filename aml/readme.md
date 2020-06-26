@@ -1,6 +1,6 @@
 # Penningtvättsjakten
 
-I jakt på penningtvättshärvor analyseras penningtransaktioner under ett visst tidsfönster. Använd länkarna för att ladda ner data för [konton](./edf3cc687027af2e23eb4ab742cbf587/raw/ba7993b54e2a52dc766ddb6baf956df9dbb43681/accounts.csv) respektive [transaktioner](./edf3cc687027af2e23eb4ab742cbf587/raw/495674fe24a471f729e552299cda106423dd6098/transactions.csv). 
+I jakt på penningtvättshärvor analyseras penningtransaktioner under ett visst tidsfönster. Använd länkarna för att ladda ner data för [konton](./accounts.csv) respektive [transaktioner](./transactions.csv). 
 
 För konton anges 
 * Kontonummer (heltal)
