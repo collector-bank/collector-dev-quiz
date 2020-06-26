@@ -1,3 +1,5 @@
+# Stordatorassembler
+
 Storbanken har laddat upp två mystiska filer på ftp:n; **program.asm** respektive **memory.dump**. 
 Det visar sig att deras stordator har havererat och de behöver hjälp att exekvera programmet.
 Oturligt nog är det stordatorassembler som inte är kompatibelt med något. 
@@ -18,3 +20,6 @@ Till din hjälp har du ett fax som beskriver stordatorn och stordatorassemblern.
 |  ADD    R0, R1, R2 | Lägg ihop värdet i register R0 med R1 och spara resultatet i register R2, dvs *R2 := R0 + R1* |
 |  SUB    R0, R1, R2 | Subtrahera värdet i register R1 från R0 och spara resulatet i register R2, dvs *R2 := R0 - R1* |
 
+## Lösningar
+
+Inskickade lösningar finns i [solutions.zip](./solutions.zip). Använd meddelandet som är lösningen på pysslet för att låsa upp filen.
