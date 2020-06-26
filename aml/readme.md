@@ -35,4 +35,4 @@ I bilden nedan anges ett exempel med konton och transaktioner.
 * Det finns inga högaktiva konton. Konto 3 har högst aktivitet med sina två transaktioner.
 * Inga kontanttransaktioner finns med i bilden då alla transaktioner går från ett konto till ett annat
 
-Hitta det transaktionsnätverk vars ingående transaktioner och konton ger högst poäng.
+Hitta det transaktionsnätverk vars ingående transaktioner och konton ger högst poäng. Poängen är svaret som efterfrågas.
