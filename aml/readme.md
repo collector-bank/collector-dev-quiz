@@ -32,7 +32,7 @@ I bilden nedan anges ett exempel med konton och transaktioner.
 * Transaktionen mellan konto 7 och konto 1 är på beloppet 6743 pengar
 * Transaktionen mellan konto 7 och konto 1 är internationell då frånkontot har landskod **SE** och tillkontot **QA**
 * Bilden visar två transaktionsnätverk; { 4, 7, 1, 3, 2 } respektive { 5, 8 }
-* Det finns inga högaktiva konton. Konto 3 har högst aktivitet med sina två transaktioner.
+* Det finns inga högaktiva konton. Konto 1 och 3 har högst aktivitet med sina två transaktioner.
 * Inga kontanttransaktioner finns med i bilden då alla transaktioner går från ett konto till ett annat
 
 Hitta det transaktionsnätverk vars ingående transaktioner och konton ger högst poäng. Poängen är svaret som efterfrågas.
