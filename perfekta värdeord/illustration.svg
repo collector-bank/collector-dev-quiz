@@ -1,0 +1,24 @@
+	  <svg xmlns="http://www.w3.org/2000/svg" xml:lang="en" 	
+     xmlns:xlink="http://www.w3.org/1999/xlink"  height="250" width="250" viewBox="-10 -15 25 20">
+      
+        <style>
+          .small { font: 1.5px sans-serif; }
+        </style>
+
+      
+        <polyline points="0,0 9,0 4.5,-11 0,0 9,0" fill="none" stroke="black" stroke-width="0.3"
+                  />
+        <circle cx="0" cy="0" r="0.5" fill="black" />
+        <circle cx="9" cy="0" r="0.5" fill="black" />
+        <circle cx="4.5" cy="-11" r="0.5" fill="black" />
+
+        <text x="-3" y="2.5" fill="black" class="small">etik</text>
+        <text x="6" y="2.5" fill="black" class="small">engagemang</text>
+        <text x="-1" y="-13" fill="black" class="small">entreprenörskap</text>
+
+        <text x="-1" y="-5" fill="black" class="small">12</text>
+        <text x="4" y="-1" fill="black" class="small">9</text>
+        <text x="8" y="-5" fill="black" class="small">12</text>
+      
+		    Sorry, your browser does not support inline SVG.
+	  </svg> 
