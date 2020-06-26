@@ -9,3 +9,7 @@ Levenshteinavståendet mellan två strängar är (det minimala) antalet enkeltec
 Vilka nya värdeord får Collector om vi kräver en *liksidig* triangel? För att hålla det så likt de nuvarande orden som möjligt tillåts det endast att ett av värdeorden byts ut och att avståndet mellan det utbytta värdeordet och dess ersättare ska vara så litet som möjligt.
 
 Använd ord från denna [ordlista](https://github.com/titoBouzout/Dictionaries/raw/master/Swedish.dic). Endast grundord är tillåtna så böjningsformer kan ignoreras. Ordlistan innehåller ett ord per rad enligt formatet `[grundord]/[böjningsregler]` alternativt bara `[grundord]` om böjningsregler saknas.
+
+## Lösningar
+
+Inskickade lösningar finns i [solutions.zip](./solutions.zip). Använd collectors nya värdeord för att låsa upp filen.
