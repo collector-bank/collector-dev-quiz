@@ -17,7 +17,7 @@ Misstänkta transaktioner och konton ges poäng enligt enligt följande regelver
  * Större transaktioner, belopp &GreaterEqual; 25.000: 1 poäng
  * Större kontanttransaktioner, belopp &GreaterEqual; 5.000: 1 poäng
  * Internationella transaktioner: 1 poäng
- * Högaktivt konto: 1 poäng (där ett högaktivt konto är ett som har 5 eller fler transaktioner; både in- och utgående transaktioner räknas)
+ * Högaktivt konto: 1 poäng (där ett högaktivt konto är ett som har 5 eller fler transaktioner; både insättningar och uttag räknas)
  
  Förtydliganden
  * *Kontanttransaktioner är aldrig internationella*
