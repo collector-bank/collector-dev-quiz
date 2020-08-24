@@ -36,3 +36,7 @@ I bilden nedan anges ett exempel med konton och transaktioner.
 * Inga kontanttransaktioner finns med i bilden då alla transaktioner går från ett konto till ett annat
 
 Hitta det transaktionsnätverk vars ingående transaktioner och konton ger högst poäng. Poängen är svaret som efterfrågas.
+
+## Lösningar
+
+Inskickade lösningar finns i [solutions.zip](./solutions.zip). Använd koden som är lösningen på pysslet för att låsa upp filen.
