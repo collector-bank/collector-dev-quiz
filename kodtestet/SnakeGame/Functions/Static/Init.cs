@@ -1,4 +1,5 @@
-﻿using SnakeGame.Classes;
+﻿using SnakeGame.Interfaces;
+using SnakeGame.Services;
 using SnakeGame.Types.Composite;
 using System;
 using System.Collections.Generic;
@@ -7,7 +8,7 @@ namespace SnakeGame.Functions.Static
 {
     class Init
     {
-        private Randomizer _randomizer = new Randomizer();
+        private IRandomizer _randomizer = new Randomizer();
 
         public void Run(GameState state)
         {

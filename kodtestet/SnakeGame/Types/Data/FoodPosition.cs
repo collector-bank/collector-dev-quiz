@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace SnakeGame.Types.Data
+﻿namespace SnakeGame.Types.Data
 {
     class FoodPosition
     {

@@ -1,4 +1,5 @@
-﻿using SnakeGame.Classes;
+﻿using SnakeGame.Interfaces;
+using SnakeGame.Services;
 using SnakeGame.Types.Composite;
 using System;
 
@@ -6,7 +7,7 @@ namespace SnakeGame.Functions.Members
 {
     class Check
     {
-        private Randomizer _randomizer;
+        private IRandomizer _randomizer;
 
         public Check()
         {

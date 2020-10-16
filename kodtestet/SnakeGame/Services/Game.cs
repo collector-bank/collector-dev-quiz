@@ -1,12 +1,13 @@
 ﻿using SnakeGame.Functions.Members;
 using SnakeGame.Functions.Static;
+using SnakeGame.Interfaces;
 using SnakeGame.Types.Composite;
 using System;
 using System.Threading;
 
-namespace SnakeGame.Classes
+namespace SnakeGame.Services
 {
-    class Game
+    class Game : IGame
     {
         private GameState state = new GameState();
         private Action InitHandler;
@@ -29,6 +30,9 @@ namespace SnakeGame.Classes
         public void Run()
         {
             InitHandler();
+            Console.WriteLine("Snake - the game! Eat as many 'X' as you can. Use 'w', 'a', 's', 'd' to change direction of the snake.");
+            Console.WriteLine("Press enter to start...");
+            Console.ReadLine();
             while (!state.GameOver.Data)
             {
                 DrawHandler();
@@ -37,6 +41,7 @@ namespace SnakeGame.Classes
                 Thread.Sleep(250);
                 CheckHandler();
             }
+            Console.Clear();
             Console.WriteLine("Game over");
         }
     }

@@ -4,16 +4,18 @@ Du är ganska nöjd med ditt jobb på Mulna men blir ändå nyfiken när du ser 
 
 I din mailbox dimper det ner ett enkelt [Snake-spel](https://sv.wikipedia.org/wiki/Snake) skrivet i C# tillsammans med några, relativt vaga, frågepunkter.
 
-* Vad tycker du om strukturen i projektet? Finns det för- och nackdelar? Är det lätt eller svårt att hitta relaterad funktionalitet? Är den konsekvent? 
-* Hur ser koden ut? Hur används klasser / typer? Har du förbättringsförslag?
+* Vad tycker du om strukturen i projektet? Finns det för- och nackdelar? Är det lätt eller svårt att hitta relaterad funktionalitet? Vad finns det för alternativ?
+* Hur ser koden ut? Är den objektorienterad eller funktionell? Hur är testbarheten? Har du förbättringsförslag?
 * Är det en lagom abstraktionsnivå? Hur enkelt är det att läsa programmet? Hur är det att lägga till ny funktionalitet? Hur många filer påverkas av ett tillägg?
 
 Refaktorera koden enligt dina synpunkter ovan.
 
-Prova gärna att utöka spelet med någon ny funktionalitet. Exempel:
+Prova gärna att utöka spelet på något sätt. Exempel:
 
 * Gör det möjligt att börja om spelet efter en omgång
 * Låt ormen växa när den äter
 * Minska "blinket" genom att unvik att rensa hela skärmen
 * Byt från Console till en annan rityta
+* Skriv tester
 
+I denna uppgift finns inget absolut rätt och fel utan det handlar om att fundera över kod och struktur i allmänhet. 

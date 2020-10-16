@@ -1,4 +1,4 @@
-﻿using SnakeGame.Classes;
+﻿using SnakeGame.Services;
 
 namespace SnakeGame
 {
