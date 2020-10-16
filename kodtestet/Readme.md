@@ -8,6 +8,7 @@ I din mailbox dimper det ner ett enkelt [Snake-spel](./SnakeGame)<sup>1</sup> sk
 * Hur ser koden ut? Är den objektorienterad eller funktionell? Hur är testbarheten? Har du förbättringsförslag?
 * Är det en lagom abstraktionsnivå? Hur enkelt är det att läsa programmet? Hur är det att lägga till ny funktionalitet? Hur många filer påverkas av ett tillägg?
 * Hur skulle koden se ut med så lite struktur och abstraktioner som möjligt? Vad är kostnaden för abstraktioner?
+* Kan man applicera domän driven design och vad skulle det isåfall resultera i?
 
 Refaktorera koden enligt dina synpunkter ovan.
 
