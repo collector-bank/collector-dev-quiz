@@ -14,6 +14,7 @@ Prova gärna att utöka spelet på något sätt. Exempel:
 
 * Gör det möjligt att börja om spelet efter en omgång
 * Låt ormen växa när den äter
+* Detektera om ormen äter sig själv och avsluta omgången
 * Minska "blinket" genom att undvika att rensa hela skärmen
 * Byt från Console till en annan rityta
 * Skriv tester
