@@ -10,9 +10,9 @@ I din mailbox dimper det ner ett enkelt [Snake-spel](./SnakeGame)<sup>1</sup> sk
 * Hur skulle koden se ut med så lite struktur och abstraktioner som möjligt? Vad är kostnaden för abstraktioner?
 * Kan man applicera domän driven design och vad skulle det isåfall resultera i?
 
-Refaktorera koden enligt dina synpunkter ovan.
+Refaktorera koden enligt dina synpunkter ovan. Prova gärna flera lösningar.
 
-Prova gärna att utöka spelet på något sätt. Exempel:
+Testa gärna även att utöka spelet på något sätt. Exempel:
 
 * Gör det möjligt att börja om spelet efter en omgång
 * Låt ormen växa när den äter
