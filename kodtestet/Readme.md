@@ -7,7 +7,7 @@ I din mailbox dimper det ner ett enkelt [Snake-spel](./SnakeGame)<sup>1</sup> sk
 * Vad tycker du om strukturen i projektet? Finns det för- och nackdelar? Är det lätt eller svårt att hitta relaterad funktionalitet? Vad finns det för alternativ?
 * Hur ser koden ut? Är den objektorienterad eller funktionell? Hur är testbarheten? Har du förbättringsförslag?
 * Är det en lagom abstraktionsnivå? Hur enkelt är det att läsa programmet? Hur är det att lägga till ny funktionalitet? Hur många filer påverkas av ett tillägg?
-* Hur skulle koden se ut med så lite struktur och abstraktioner som möjligt?
+* Hur skulle koden se ut med så lite struktur och abstraktioner som möjligt? Vad är kostnaden för abstraktioner?
 
 Refaktorera koden enligt dina synpunkter ovan.
 
