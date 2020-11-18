@@ -1,3 +1,3 @@
 # Collector Developer Quiz
 
-A collection of programming challanges / coding katas.
+A collection of programming challenges / coding katas.
